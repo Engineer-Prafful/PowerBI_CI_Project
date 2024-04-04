@@ -16,5 +16,5 @@ Findings
 <li>Consumer is the segment with the highest quantity of products and highest discount</li>
 <li>Representatives Richard, Alex, Bill and Mathew are selling the maximum units</li>
 <li>South Region needs more attention in order to increase profit from that region</li>
-<li></li>More representatives should be employed in west region for more sale</li>
+<li>More representatives should be employed in west region for more sale</li>
 </ul>
