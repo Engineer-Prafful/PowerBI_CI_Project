@@ -1,5 +1,5 @@
 # PowerBI_CI_Project
-A project done by me based on Microsft Power BI tool
+A project done by me using Microsft PowerBI tool
 
 Introduction
 
